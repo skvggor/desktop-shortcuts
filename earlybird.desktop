@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Earlybird
+Comment=Cliente de e-mail
+Icon=/opt/earlybird/chrome/icons/default/default48.png
+Exec=/opt/earlybird/thunderbird
+Type=Application

@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Sublime Text 3
+Comment=Editor de código
+Icon=/home/xxx/sublime_text_3/Icon/256x256/sublime-text.png
+Exec=/home/xxx/sublime_text_3/sublime_text
+Type=Application

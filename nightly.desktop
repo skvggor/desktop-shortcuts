@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Firefox Nightly
+Comment=Navegador web
+Icon=/opt/nightly/browser/chrome/icons/default/default48.png
+Exec=/opt/nightly/firefox
+Type=Application

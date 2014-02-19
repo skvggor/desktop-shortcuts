@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Opera
+Comment=Navegador web
+Icon=/opt/opera-12.16-1860.x86_64.linux/share/icons/hicolor/256x256/apps/opera-browser.png
+Exec=/opt/opera-12.16-1860.x86_64.linux/opera
+Type=Application
