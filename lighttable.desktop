@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Light Table 0.6.4
+Comment=Editor de código
+Icon=/home/xxx/Copy/Apps/LightTable/core/img/lticon.png
+Exec=/home/xxx/Copy/Apps/LightTable/LightTable
+Type=Application
