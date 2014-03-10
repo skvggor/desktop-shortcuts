@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Name=VMware Player
+Comment=Run a virtual machine
+Exec=/usr/bin/vmplayer %f
+Terminal=false
+Type=Application
+Icon=vmware-player
+StartupNotify=true
+Categories=System;
+MimeType=application/x-vmware-vm;application/x-vmware-enc-vm;
