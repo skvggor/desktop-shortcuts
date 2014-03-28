@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Popcorn Time
+Comment=Filmes
+Icon=/home/xxx/Copy/Apps/popcorn-app/images/icon.png
+Exec=/home/xxx/Copy/Apps/popcorn-app/build/releases/Popcorn-Time/linux64/Popcorn-Time/Popcorn-Time
+Type=Application

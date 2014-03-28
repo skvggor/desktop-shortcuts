@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Openshot
+Comment=Editor de vídeos
+Icon=/home/xxx/Copy/Apps/openshot-1.4.3/xdg/openshot.svg
+Exec=/home/xxx/Copy/Apps/openshot-1.4.3/bin/openshot
+Type=Application
