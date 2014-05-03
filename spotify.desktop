@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Spotify
+Comment=Músicas
+Icon=/home/xxx/Copy/Apps/Spotify/Spotify.png
+Exec=/usr/bin/spotify
+Type=Application
