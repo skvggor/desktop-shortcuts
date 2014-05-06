@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment=Editor de código
+Exec=/home/xxx/Copy/Apps/zed/zed
+Icon=/home/xxx/Copy/Apps/zed/icon/zedapp-icon.png
+Name=Zed
+Type=Application
