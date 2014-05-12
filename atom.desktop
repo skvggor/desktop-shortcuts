@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment=Editor de código
+Exec=atom
+Icon=/home/xxx/Copy/Apps/atom/resources/atom.png
+Name=Atom Editor
+Type=Application
