@@ -2,6 +2,6 @@
 Comment=Filmes
 Exec=/home/xxx/Copy/Apps/popcorn-app/build/releases/Popcorn-Time/linux64/Popcorn-Time/Popcorn-Time
 Icon=/home/xxx/Copy/Apps/popcorn-app/src/app/images/icon.png
-Name[pt_BR]=Popcorn Time 0.3.2
-Name=Popcorn Time 0.3.2
+Name[pt_BR]=Popcorn Time
+Name=Popcorn Time
 Type=Application
