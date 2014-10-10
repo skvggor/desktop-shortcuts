@@ -2,6 +2,6 @@
 [Desktop Entry]
 Comment=Editor de código
 Exec=/tmp/atom-build/Atom/atom
-Icon=/home/xxx/Copy/Apps/atom_1024x1024x32.png
+Icon=/home/xxx/Copy/Apps/atom/resources/atom.png
 Name=Atom Editor
 Type=Application

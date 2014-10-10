@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=TweetDeck
+Comment=Cliente do twitter
+Icon=/home/xxx/Copy/Apps/twd/256x256.png
+Exec=/home/xxx/Copy/Apps/twd/./twd-start.sh
+Type=Application
