@@ -1,7 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Name=Eclipse Kepler 4.3.1
-Comment=Editor de código (Java)
-Icon=/opt/eclipse/icon.xpm
-Exec=/opt/eclipse/eclipse
-Type=Application
