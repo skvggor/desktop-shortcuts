@@ -1,12 +1,20 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
-Encoding=UTF-8
-Name=VMware Player
-Comment=Run a virtual machine
-Exec=/usr/bin/vmplayer %f
-Terminal=false
-Type=Application
-Icon=vmware-player
-StartupNotify=true
 Categories=System;
+Comment[pt_BR]=Run a virtual machine
+Comment=Run a virtual machine
+Encoding=UTF-8
+Exec=/usr/bin/vmplayer %f
+GenericName[pt_BR]=
+GenericName=
+Icon=/home/xxx/Copy/Apps/VMWare Player/120px-VMware_Player_logo.png
 MimeType=application/x-vmware-vm;application/x-vmware-enc-vm;
+Name=VMware Player
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
